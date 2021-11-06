@@ -1,0 +1,30 @@
+Coding:
+package slefLearning;
+
+public class characters {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		char topGrade = 'A';
+		char terminator = ';', saperation = ' ', LowCase = 'a', digit = '9', SSymbol = '%';
+		
+		System.out.println("topGrade: " + topGrade);
+		System.out.println("terminator: " + terminator);
+		System.out.println("saperation: " + saperation);
+		System.out.println("Lowcase: " + LowCase);
+		System.out.println("digit: " + digit);
+		System.out.println("SSymbol: " + SSymbol);
+
+	}
+
+}
+
+
+Output:
+topGrade: A
+terminator: ;
+saperation:  
+Lowcase: a
+digit: 9
+SSymbol: %
