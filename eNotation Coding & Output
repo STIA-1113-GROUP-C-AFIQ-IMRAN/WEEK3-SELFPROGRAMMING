@@ -1,0 +1,31 @@
+Coding:
+package slefLearning;
+
+public class eNotation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double  normalPositive = 865000000.0;
+		double ePositive = 8.65e8;
+		
+		double normalNegative = 0.000483;
+		double eNegative = 4.83e-4;
+		
+		System.out.println("normalPositive: " + normalPositive);
+		System.out.println("ePostitive: " + ePositive);
+		
+		System.out.println("normalNegative: " + normalNegative);
+		System.out.println("eNegative: " + eNegative);
+
+	}
+
+}
+
+
+
+Output:
+normalPositive: 8.65E8
+ePostitive: 8.65E8
+normalNegative: 4.83E-4
+eNegative: 4.83E-4
