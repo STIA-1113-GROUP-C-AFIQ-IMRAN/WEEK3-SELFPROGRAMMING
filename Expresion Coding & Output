@@ -1,0 +1,33 @@
+Coding:
+package slefLearning;
+
+public class Expresion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int n1 = 8, n2 = 2;
+		
+		int addition = n1 + n2;
+		int subtraction = n1 - n2;
+		int multiplication = n1 * n2;
+		int division = n1 / n2;
+		int modulus = n1 / n2;
+		
+		System.out.println("addition: " + addition);
+		System.out.println("subtraction: " + subtraction);
+		System.out.println("multiplication: " + multiplication);
+		System.out.println("division: " + division);
+		System.out.println("modulus: " + modulus);
+
+	}
+
+}
+
+
+Output:
+addition: 10
+subtraction: 6
+multiplication: 16
+division: 4
+modulus: 4
