@@ -1,0 +1,28 @@
+Coding:
+package slefLearning;
+
+public class variable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int count, temp, result;
+		
+		count = 19;
+		temp = 20;
+		result = count +  temp;
+		
+		System.out.println("count: " + count);
+		System.out.println("temp: " + temp);
+		System.out.println("result: " + result);
+
+	}
+
+}
+
+
+
+Output:
+count: 19
+temp: 20
+result: 39
