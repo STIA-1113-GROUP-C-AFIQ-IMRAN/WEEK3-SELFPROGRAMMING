@@ -1,0 +1,23 @@
+Coding:
+package slefLearning;
+
+public class ImpercisionInFloatPointNumbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		float number1 = 1;
+		float number2 = 3;
+		
+		float answer = number1/number2;
+		
+		System.out.println("answer: " + answer);
+		
+
+	}
+
+}
+
+
+Output:
+answer: 0.33333334
