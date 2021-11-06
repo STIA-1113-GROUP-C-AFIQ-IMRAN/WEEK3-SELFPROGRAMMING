@@ -1,0 +1,22 @@
+Coding:
+package slefLearning;
+
+public class IAndDOinE {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int m = 4;
+		int result = 3 * (++m);
+		
+		System.out.println("m: " + m);
+		System.out.println("result: " + result);
+
+	}
+
+}
+
+
+Output:
+m: 5
+result: 15
