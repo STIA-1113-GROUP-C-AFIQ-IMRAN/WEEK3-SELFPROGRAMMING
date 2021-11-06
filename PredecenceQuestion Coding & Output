@@ -1,0 +1,39 @@
+Coding:
+package slefLearning;
+
+public class PredecenceQuestion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double a1 = 9 / 5;
+		int a2 = 695 % 20;
+		int a3 = 7 + 6 * 5;
+		int a4 = 7 * 6 + 5;
+		int a5 = 248 % 100 / 5;
+		double a6 = 6 * 3 - 9 / 4;
+		int a7 = (5 - 7) * 4;
+		int a8 = 6 + (18 % (17 - 22));
+		
+		System.out.println("a1: " + a1);
+		System.out.println("a2: " + a2);
+		System.out.println("a3: " + a3);
+		System.out.println("a4: " + a4);
+		System.out.println("a5: " + a5);
+		System.out.println("a6: " + a6);
+		System.out.println("a7: " + a7);
+		System.out.println("a8: " + a8);
+
+	}
+
+}
+
+
+
+Output:
+a3: 37
+a4: 47
+a5: 9
+a6: 16.0
+a7: -8
+a8: 9
