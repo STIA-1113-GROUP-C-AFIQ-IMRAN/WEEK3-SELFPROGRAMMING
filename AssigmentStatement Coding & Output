@@ -1,0 +1,25 @@
+Coding:
+package slefLearning;
+
+public class AssigmentStatement {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double amount1 = 3.99;
+		double amount2 = 5.50;
+		
+		double addition = amount1 + amount2;
+		double minus = amount2 - amount1;
+		
+		System.out.println("addition: " + addition);
+		System.out.println("minus: " + minus);
+		
+
+	}
+
+}
+
+Output:
+addition: 9.49
+minus: 1.5099999999999998
