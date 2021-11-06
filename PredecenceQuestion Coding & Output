@@ -31,6 +31,8 @@ public class PredecenceQuestion {
 
 
 Output:
+a1: 1.0
+a2: 15
 a3: 37
 a4: 47
 a5: 9
